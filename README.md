@@ -48,13 +48,13 @@
 <br />
 
 <!-- GitHub Stats (Using the 'radical' theme to match styling) -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- <h3 align="center">GitHub Stats</h3> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-aghara&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Harsh's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=harsh-aghara&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Harsh's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-aghara&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-aghara&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
